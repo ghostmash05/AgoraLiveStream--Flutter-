@@ -8,6 +8,7 @@ To Join Live as a Broadcaster,
                       );
 
 To Join Live as a Audience,
+
                       Get.to(
                         () => LiveWatchScreen(
                           token: '',
