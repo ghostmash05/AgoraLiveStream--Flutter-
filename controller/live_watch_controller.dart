@@ -4,7 +4,7 @@ import 'package:get/get.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 class LiveWatchController extends GetxController {
-  static const String _appId = "";
+  static const String _appId = "your_app_id";
   String _token = "";
   String _channelName = '';
 

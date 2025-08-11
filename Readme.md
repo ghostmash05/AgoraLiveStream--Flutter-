@@ -20,6 +20,8 @@ A Flutter module for integrating Agora live streaming functionality into your Fl
 
 ## Installation
 
+**Please replace your Agora App ID in the `controller/live_stream_controller.dart` and `controller/live_watch_controller.dart` files.**
+
 1. Add the following dependencies to your `pubspec.yaml`:
 
 ```yaml
